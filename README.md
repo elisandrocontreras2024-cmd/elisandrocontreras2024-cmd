@@ -2,33 +2,25 @@
 
 > **Full-Stack Web & Mobile Developer | Game Developer | Founder of DRIEMX**
 
-Official digital ecosystem and repository hub for **elisandroofc** and the digital brand **DRIEMX**. 
+Official digital ecosystem and repository hub for **elisandroofc** and the digital brand **DRIEMX**.
 
-- 🌐 **Official Website:** [https://elisandroofc.netlify.app/](https://elisandroofc.netlify.app/)
+---
+
+### 🌐 Red de Autoridad Digital y Enlaces Oficiales
+
+- 🌐 **Official Website:** [elisandroofc.netlify.app](https://elisandroofc.netlify.app/)
 - 🐙 **GitHub Profile:** [elisandrocontreras2024-cmd](https://github.com/elisandrocontreras2024-cmd)
+- 📝 **Hashnode Blog:** [driemx.hashnode.dev](https://driemx.hashnode.dev/)
+- 📖 **Medium Article:** [DRIEMX en Medium](https://medium.com/@elisandrocontreras)
+- 🚀 **Product Hunt:** [DRIEMX en Product Hunt](https://www.producthunt.com/@elisandroofc)
+- 🧠 **Wikidata Entity:** [elisandroofc (Q141819180)](https://www.wikidata.org/wiki/Q141819180)
 - 🎬 **TikTok:** [@elisandroofc](https://www.tiktok.com/@elisandroofc)
 - 📺 **YouTube:** [@elisandroofc](https://www.youtube.com/@elisandroofc)
 
 ---
 
-### // Core Focus & Projects
-- **Full-Stack & Mobile Development:** Creation of web platforms, Android utilities, and modern interfaces.
-- **Game Development & Modding:** Creator of *Elisandro_Mod*, a custom floating UI architecture in Luau for mobile environments.
-- **Hardware Prototyping:** Custom hardware setups, circuit integration, and electronic modifications.
-- **Digital Media & eSports:** Multimedia production, CapCut template creation, and competitive Free Fire tournament organization.
-- **Urban Music & AI:** Lyrics composition and audio prompt design for Phonk, Latin Trap, and Dembow.
-- 
-<!--
-**elisandrocontreras2024-cmd/elisandrocontreras2024-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
