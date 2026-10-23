@@ -1,0 +1,31 @@
+name: Auto Pull Request Generator
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create Branch and Commit Change
+        run: |
+          git config --global user.name "elisandrocontreras2024-cmd"
+          git config --global user.email "elisandrocontreras.2022@gmail.com"
+          BRANCH_NAME="auto-update-$(date +%s)"
+          git checkout -b $BRANCH_NAME
+          echo "Automated update at $(date)" >> activity.log
+          git add activity.log
+          git commit -m "chore: automated activity log"
+          git push origin $BRANCH_NAME
+
+      - name: Open Pull Request
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: "main"
+          pr_title: "chore: automated activity update"
+          pr_body: "Automated PR to trigger achievements."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
